@@ -1,0 +1,50 @@
+SPECIFICATION
+DISPLAY
+240x136 pixels, 16 colors palette
+INPUT
+2 gamepads with 8 buttons / mouse
+SPRITES
+256 8x8 foreground sprites and 256 8x8 background tiles
+MAP
+240x136 cells, 1920x1088 pixels
+SOUND
+4 channels with configareble waveforms
+CODE
+64KB of Lua or Moonscript or JavaScript or Wren or Fennel
+CONSOLE COMMANDS
+help
+Show available commands
+ram
+Show 80K RAM layout
+exit
+Exit the application
+new
+Create new cartridge
+load <cart>
+Load .tic cartridge from the local filesystem
+save <cart>
+Save .tic cartridge to the local filesystem
+run
+Run current project
+dir
+Show list of local files
+folder
+Open working directory in OS (Windows, Linux, MacOSX)
+add
+Show file open dialog to add file to TIC
+del <file>
+Delete from the filesystem
+get <file>
+Show file save dialog to download file
+export <res>
+Export [html | native | sprites | cover | map]
+import <res>
+Import [sprites | cover | map] from .gif
+cls
+Clear screen
+demo
+Install demo carts
+config [reset]
+Load system configurati
+
+https://www.roblox.com/games/2295122555/Project-JoJo-Double-Exp-Spawns-Event?privateServerLinkCode=K3zlRJXJfSYqzeCV6nv6OwtlA20OcEZS
