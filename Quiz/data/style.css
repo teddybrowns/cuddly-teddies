@@ -1,0 +1,41 @@
+body
+{
+    background-color: gray;
+}
+
+.tittle
+{
+    color: cyan;
+    font-family: Windows Command Prompt;
+    text-align: center;
+    font-size: 80px;
+}
+
+.text
+{
+    color: black;
+    font-family: Windows Comand Prompt;
+    text-align: center;
+    font-size: 60px;
+}
+
+.question
+{
+    color: black;
+    font-family: Windows Comand Prompt;
+    font-size: 60px;
+}
+
+.correct
+{
+    color: green;
+    font-family: Windows Comand Prompt;
+    font-size: 60px;
+}
+
+.incorrect
+{
+    color: red;
+    font-family: Windows Comand Prompt;
+    font-size: 60px;
+}
